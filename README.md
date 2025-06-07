@@ -24,5 +24,4 @@ This project is a fun and insightful take on analyzing Apple product data using 
 
 ## 📷 Dashboard Preview
 
-> *(Include a screenshot here)*
-![Dashboard Preview](assets/dashboard-screenshot.png)
+<img width="390" alt="Apple Data Visualization Image" src="https://github.com/user-attachments/assets/cb69cf57-e968-4c03-bbc7-a87f3418ffa4" />
